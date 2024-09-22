@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Cham;
+    src: url("JG\ ChamCambodia.ttf");
+}
+
+#acknowledgement {
+    font-family: Cham;
+    font-style: italic;
+}
